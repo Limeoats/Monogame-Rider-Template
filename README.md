@@ -1,0 +1,1 @@
+# Monogame-Rider-Template
